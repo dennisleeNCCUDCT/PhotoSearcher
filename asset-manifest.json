@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PhotoSearcher/static/css/main.a6ed1e73.css",
+    "main.js": "/PhotoSearcher/static/js/main.de34e449.js",
+    "index.html": "/PhotoSearcher/index.html",
+    "main.a6ed1e73.css.map": "/PhotoSearcher/static/css/main.a6ed1e73.css.map",
+    "main.de34e449.js.map": "/PhotoSearcher/static/js/main.de34e449.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ed1e73.css",
+    "static/js/main.de34e449.js"
+  ]
+}
